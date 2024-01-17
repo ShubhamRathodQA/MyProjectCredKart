@@ -1,0 +1,1 @@
+pytest -v -s -n=2 testCases/test_Regi_Logi.py --browser=chrome --html=Reports/DemoReport.html
